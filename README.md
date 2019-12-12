@@ -6,11 +6,14 @@ interface as well.
 
 All the permutations and combinations for deciding the winner are taken care off.
 
-The output of Connect-4 Game which shows Winner once the condition is met for the same.
+The output of Connect-4 Game which shows Winner when red dots are placed vertically.
 
 ![Image of Connect-4](https://github.com/Palash09/GUI_Connect-4_Game/blob/master/Red_Vertical_Example.png)
 
-![Image of Connect-4](https://github.com/Palash09/GUI_Connect-4_Game/blob/master/Yellow_Diagnoal_Example.png)
+
+The output of Connect-4 Game which shows Winner when yellow dots are placed diagonally.
+
+![Image of Connect-4](https://github.com/Palash09/GUI_Connect-4_Game/blob/master/Yellow_Diagonal_Example.png)
 
 
 
